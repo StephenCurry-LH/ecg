@@ -1,0 +1,12 @@
+DCT其固定值，top16：
+Resnet +DCT   94.69   run文件Oct 15 11.04.35
+Endecoder +DCT 94.67  run文件Oct 15 11。27.17
+
+
+未使用DCT：
+原版Resnet     95.15   run文件 Oct 15 13-35-20
+原版Endecoder   95.44  run文件 Oct 15 13-36-26
+
+
+result_split
+156个频率因子，每次使用一个频率

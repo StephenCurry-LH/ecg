@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="lihang@202.199.7.67:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="lihang@202.199.7.67:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/ecg" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

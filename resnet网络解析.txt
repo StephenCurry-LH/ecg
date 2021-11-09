@@ -1,0 +1,19 @@
+在较为浅层的resnet中（resnet1,resnet34）中使用的基本模块叫BasicBlock，它由两个 （3, 3, out_plane）的Conv2d 堆叠而成。
+在使用这个BasicBlock时候，只需要根据 堆叠具体参数：输入输出通道数目，堆叠几个BasicBlock，就能确定每个stage中basicblock的基本使用情况；
+在较为深层的resnet中（resnt50，resnet101，resnet152），既能增加模块深度，又能减少参数量，使用的是一种瓶颈结构Bottleneck，
+它由 (1,1, ) ，（3,3），（1,1）堆叠而成，使用方法和BasicBlock基本类似。
+
+在2,3,4,5个stage中，resnet18的在各个stage中使用的基本模块的数目为：[2,2,2,2]；
+resnet34的在各个stage中的基本模块的数目为：[3,4,6,3]；resnet50的在各个stage中的基本模块的数目为：[3,4,6,3]；
+resnet101的在各个stage中的基本模块的数目为：[3,4,23,3]；resnet18的在各个stage中的基本模块的数目为：[3,8,36,3]；
+
+_make_layer() 成员函数，是用来制作每个stage中的网络结构的函数，其的 形参 包含block, planes, blocks, stride 四个参数：
+block：基本模块选择谁（前面提到过基本模块包含 BasicBlock 和 Bottleneck两个基本模块）
+planes：这是每个stage中，与每个block的输出通道相关的参数（ 查看代码就知道，如果使用的是BasicBlock那么planes就等于这个block的输出通道数目，
+如果使用的是Bottleneck那么这个block的输出通道数目就是planes的4倍）。
+
+_make_layer()要解决：根据不同的基本block，完成一个stage 网络结构的构建
+
+BasicBlock()（或Bottleneck()）类中的类属性expandsion，用来指定下一个BasicBlock的输入通道是多少。
+因为就算在stage中，第一个block结束之后，下一个block的输入通道数目已经变化了，已经不是 同一个stage 的 第一个block 的输入通道数目。
+

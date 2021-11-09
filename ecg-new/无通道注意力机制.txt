@@ -1,0 +1,802 @@
+training epoch:0,loss:0.00478,accuracu:0.7533203125
+training epoch:0,loss:0.00289,accuracu:0.8556640625
+training epoch:0,loss:0.00237,accuracu:0.888671875
+Class 2, Accuracy 4584/4774 = 0.9602010892333473
+Class 0, Accuracy 1762/2130 = 0.8272300469483568
+Class 1, Accuracy 230/328 = 0.7012195121951219
+validation epoch:0,loss:0.00201,accuracu:0.9092920353982301
+********************Epoch 0 Finished********************
+training epoch:1,loss:0.00216,accuracu:0.8982421875
+training epoch:1,loss:0.00180,accuracu:0.9189453125
+training epoch:1,loss:0.00191,accuracu:0.9166015625
+Class 2, Accuracy 4349/4774 = 0.9109761206535401
+Class 0, Accuracy 1988/2130 = 0.9333333333333333
+Class 1, Accuracy 207/328 = 0.6310975609756098
+validation epoch:1,loss:0.00207,accuracu:0.9048672566371682
+********************Epoch 1 Finished********************
+training epoch:2,loss:0.00172,accuracu:0.9220703125
+training epoch:2,loss:0.00161,accuracu:0.9279296875
+training epoch:2,loss:0.00169,accuracu:0.927734375
+Class 0, Accuracy 1830/2130 = 0.8591549295774648
+Class 2, Accuracy 4556/4774 = 0.9543359865940511
+Class 1, Accuracy 299/328 = 0.9115853658536586
+validation epoch:2,loss:0.00172,accuracu:0.9243639380530974
+********************Epoch 2 Finished********************
+training epoch:3,loss:0.00153,accuracu:0.930078125
+training epoch:3,loss:0.00171,accuracu:0.9232421875
+training epoch:3,loss:0.00167,accuracu:0.924609375
+Class 2, Accuracy 4555/4774 = 0.9541265186426476
+Class 1, Accuracy 254/328 = 0.774390243902439
+Class 0, Accuracy 1914/2130 = 0.8985915492957747
+validation epoch:3,loss:0.00161,accuracu:0.9296183628318584
+********************Epoch 3 Finished********************
+training epoch:4,loss:0.00154,accuracu:0.932421875
+training epoch:4,loss:0.00147,accuracu:0.937890625
+training epoch:4,loss:0.00152,accuracu:0.934375
+Class 2, Accuracy 4589/4774 = 0.9612484289903644
+Class 0, Accuracy 1914/2130 = 0.8985915492957747
+Class 1, Accuracy 285/328 = 0.8689024390243902
+validation epoch:4,loss:0.00151,accuracu:0.9386061946902655
+********************Epoch 4 Finished********************
+training epoch:5,loss:0.00135,accuracu:0.9421875
+training epoch:5,loss:0.00148,accuracu:0.938671875
+training epoch:5,loss:0.00139,accuracu:0.9400390625
+Class 0, Accuracy 1924/2130 = 0.9032863849765258
+Class 2, Accuracy 4604/4774 = 0.964390448261416
+Class 1, Accuracy 231/328 = 0.7042682926829268
+validation epoch:5,loss:0.00146,accuracu:0.9345962389380531
+********************Epoch 5 Finished********************
+training epoch:6,loss:0.00126,accuracu:0.946875
+training epoch:6,loss:0.00134,accuracu:0.943359375
+training epoch:6,loss:0.00156,accuracu:0.93203125
+Class 2, Accuracy 4696/4774 = 0.9836614997905321
+Class 0, Accuracy 1904/2130 = 0.8938967136150234
+Class 1, Accuracy 210/328 = 0.6402439024390244
+validation epoch:6,loss:0.00148,accuracu:0.9416482300884956
+********************Epoch 6 Finished********************
+training epoch:7,loss:0.00139,accuracu:0.939453125
+training epoch:7,loss:0.00130,accuracu:0.94296875
+training epoch:7,loss:0.00146,accuracu:0.9365234375
+Class 0, Accuracy 1907/2130 = 0.8953051643192488
+Class 2, Accuracy 4637/4774 = 0.9713028906577293
+Class 1, Accuracy 275/328 = 0.8384146341463414
+validation epoch:7,loss:0.00135,accuracu:0.9428926991150443
+********************Epoch 7 Finished********************
+training epoch:8,loss:0.00122,accuracu:0.9455078125
+training epoch:8,loss:0.00127,accuracu:0.9455078125
+training epoch:8,loss:0.00137,accuracu:0.944140625
+Class 0, Accuracy 1916/2130 = 0.8995305164319248
+Class 2, Accuracy 4626/4774 = 0.9689987431922916
+Class 1, Accuracy 244/328 = 0.7439024390243902
+validation epoch:8,loss:0.00147,accuracu:0.9383296460176991
+********************Epoch 8 Finished********************
+training epoch:9,loss:0.00118,accuracu:0.951171875
+training epoch:9,loss:0.00129,accuracu:0.94296875
+training epoch:9,loss:0.00122,accuracu:0.9474609375
+Class 2, Accuracy 4562/4774 = 0.9555927943024717
+Class 0, Accuracy 1837/2130 = 0.8624413145539906
+Class 1, Accuracy 311/328 = 0.948170731707317
+validation epoch:9,loss:0.00167,accuracu:0.927820796460177
+********************Epoch 9 Finished********************
+training epoch:10,loss:0.00114,accuracu:0.95
+training epoch:10,loss:0.00125,accuracu:0.9458984375
+training epoch:10,loss:0.00126,accuracu:0.945703125
+Class 2, Accuracy 4659/4774 = 0.9759111855886049
+Class 0, Accuracy 1897/2130 = 0.8906103286384977
+Class 1, Accuracy 268/328 = 0.8170731707317073
+validation epoch:10,loss:0.00137,accuracu:0.9435840707964602
+********************Epoch 10 Finished********************
+training epoch:11,loss:0.00112,accuracu:0.950390625
+training epoch:11,loss:0.00121,accuracu:0.9455078125
+training epoch:11,loss:0.00120,accuracu:0.9478515625
+Class 0, Accuracy 1769/2130 = 0.8305164319248827
+Class 2, Accuracy 4622/4774 = 0.9681608713866778
+Class 1, Accuracy 306/328 = 0.9329268292682927
+validation epoch:11,loss:0.00174,accuracu:0.9260232300884956
+********************Epoch 11 Finished********************
+training epoch:12,loss:0.00106,accuracu:0.9533203125
+training epoch:12,loss:0.00108,accuracu:0.9505859375
+training epoch:12,loss:0.00125,accuracu:0.9447265625
+Class 0, Accuracy 1950/2130 = 0.9154929577464789
+Class 2, Accuracy 4630/4774 = 0.9698366149979053
+Class 1, Accuracy 269/328 = 0.8201219512195121
+validation epoch:12,loss:0.00124,accuracu:0.9470409292035398
+********************Epoch 12 Finished********************
+training epoch:13,loss:0.00109,accuracu:0.9498046875
+training epoch:13,loss:0.00111,accuracu:0.9498046875
+training epoch:13,loss:0.00113,accuracu:0.951171875
+Class 0, Accuracy 1881/2130 = 0.8830985915492958
+Class 2, Accuracy 4609/4774 = 0.9654377880184332
+Class 1, Accuracy 298/328 = 0.9085365853658537
+validation epoch:13,loss:0.00152,accuracu:0.9386061946902655
+********************Epoch 13 Finished********************
+training epoch:14,loss:0.00099,accuracu:0.9546875
+training epoch:14,loss:0.00108,accuracu:0.9525390625
+training epoch:14,loss:0.00104,accuracu:0.9533203125
+Class 2, Accuracy 4469/4774 = 0.9361122748219523
+Class 0, Accuracy 1986/2130 = 0.9323943661971831
+Class 1, Accuracy 268/328 = 0.8170731707317073
+validation epoch:14,loss:0.00152,accuracu:0.9296183628318584
+********************Epoch 14 Finished********************
+training epoch:15,loss:0.00099,accuracu:0.9564453125
+training epoch:15,loss:0.00096,accuracu:0.959375
+training epoch:15,loss:0.00099,accuracu:0.9583984375
+Class 2, Accuracy 4536/4774 = 0.9501466275659824
+Class 0, Accuracy 1804/2130 = 0.8469483568075117
+Class 1, Accuracy 321/328 = 0.9786585365853658
+validation epoch:15,loss:0.00203,accuracu:0.9210453539823009
+********************Epoch 15 Finished********************
+training epoch:16,loss:0.00093,accuracu:0.9583984375
+training epoch:16,loss:0.00096,accuracu:0.9572265625
+training epoch:16,loss:0.00091,accuracu:0.96015625
+Class 2, Accuracy 4626/4774 = 0.9689987431922916
+Class 0, Accuracy 1818/2130 = 0.8535211267605634
+Class 1, Accuracy 307/328 = 0.9359756097560976
+validation epoch:16,loss:0.00176,accuracu:0.9334900442477876
+********************Epoch 16 Finished********************
+training epoch:17,loss:0.00092,accuracu:0.9576171875
+training epoch:17,loss:0.00090,accuracu:0.958984375
+training epoch:17,loss:0.00096,accuracu:0.9595703125
+Class 2, Accuracy 4650/4774 = 0.974025974025974
+Class 0, Accuracy 1903/2130 = 0.8934272300469484
+Class 1, Accuracy 287/328 = 0.875
+validation epoch:17,loss:0.00136,accuracu:0.9457964601769911
+********************Epoch 17 Finished********************
+training epoch:18,loss:0.00082,accuracu:0.9638671875
+training epoch:18,loss:0.00079,accuracu:0.9662109375
+training epoch:18,loss:0.00086,accuracu:0.9591796875
+Class 0, Accuracy 1974/2130 = 0.9267605633802817
+Class 2, Accuracy 4507/4774 = 0.9440720569752827
+Class 1, Accuracy 298/328 = 0.9085365853658537
+validation epoch:18,loss:0.00147,accuracu:0.9373617256637168
+********************Epoch 18 Finished********************
+training epoch:19,loss:0.00071,accuracu:0.9701171875
+training epoch:19,loss:0.00080,accuracu:0.9658203125
+training epoch:19,loss:0.00088,accuracu:0.9603515625
+Class 2, Accuracy 4580/4774 = 0.9593632174277336
+Class 0, Accuracy 1958/2130 = 0.9192488262910798
+Class 1, Accuracy 287/328 = 0.875
+validation epoch:19,loss:0.00139,accuracu:0.9437223451327433
+********************Epoch 19 Finished********************
+training epoch:20,loss:0.00059,accuracu:0.976171875
+training epoch:20,loss:0.00069,accuracu:0.9666015625
+training epoch:20,loss:0.00078,accuracu:0.96640625
+Class 2, Accuracy 4625/4774 = 0.9687892752408881
+Class 0, Accuracy 1848/2130 = 0.8676056338028169
+Class 1, Accuracy 305/328 = 0.9298780487804879
+validation epoch:20,loss:0.00164,accuracu:0.9372234513274337
+********************Epoch 20 Finished********************
+training epoch:21,loss:0.00059,accuracu:0.9708984375
+training epoch:21,loss:0.00070,accuracu:0.969921875
+training epoch:21,loss:0.00095,accuracu:0.9552734375
+Class 0, Accuracy 1963/2130 = 0.9215962441314554
+Class 2, Accuracy 4527/4774 = 0.9482614160033515
+Class 1, Accuracy 310/328 = 0.9451219512195121
+validation epoch:21,loss:0.00148,accuracu:0.9402654867256637
+********************Epoch 21 Finished********************
+training epoch:22,loss:0.00062,accuracu:0.9751953125
+training epoch:22,loss:0.00070,accuracu:0.971875
+training epoch:22,loss:0.00077,accuracu:0.9646484375
+Class 2, Accuracy 4564/4774 = 0.9560117302052786
+Class 0, Accuracy 1938/2130 = 0.9098591549295775
+Class 1, Accuracy 313/328 = 0.9542682926829268
+validation epoch:22,loss:0.00157,accuracu:0.9423396017699115
+********************Epoch 22 Finished********************
+training epoch:23,loss:0.00059,accuracu:0.97421875
+training epoch:23,loss:0.00048,accuracu:0.980078125
+training epoch:23,loss:0.00045,accuracu:0.98046875
+Class 2, Accuracy 4620/4774 = 0.967741935483871
+Class 0, Accuracy 1966/2130 = 0.9230046948356807
+Class 1, Accuracy 288/328 = 0.8780487804878049
+validation epoch:23,loss:0.00143,accuracu:0.9504977876106194
+********************Epoch 23 Finished********************
+training epoch:24,loss:0.00036,accuracu:0.9833984375
+training epoch:24,loss:0.00031,accuracu:0.9859375
+training epoch:24,loss:0.00030,accuracu:0.9875
+Class 2, Accuracy 4583/4774 = 0.9599916212819438
+Class 0, Accuracy 1987/2130 = 0.9328638497652583
+Class 1, Accuracy 274/328 = 0.8353658536585366
+validation epoch:24,loss:0.00154,accuracu:0.9463495575221239
+********************Epoch 24 Finished********************
+training epoch:25,loss:0.00024,accuracu:0.990625
+training epoch:25,loss:0.00027,accuracu:0.9890625
+training epoch:25,loss:0.00032,accuracu:0.984765625
+Class 2, Accuracy 4613/4774 = 0.966275659824047
+Class 0, Accuracy 1976/2130 = 0.927699530516432
+Class 1, Accuracy 284/328 = 0.8658536585365854
+validation epoch:25,loss:0.00163,accuracu:0.9503595132743363
+********************Epoch 25 Finished********************
+training epoch:26,loss:0.00029,accuracu:0.9869140625
+training epoch:26,loss:0.00026,accuracu:0.9890625
+training epoch:26,loss:0.00025,accuracu:0.990234375
+Class 1, Accuracy 301/328 = 0.9176829268292683
+Class 2, Accuracy 4476/4774 = 0.9375785504817763
+Class 0, Accuracy 1995/2130 = 0.9366197183098591
+validation epoch:26,loss:0.00188,accuracu:0.9363938053097345
+********************Epoch 26 Finished********************
+training epoch:27,loss:0.00023,accuracu:0.9884765625
+training epoch:27,loss:0.00023,accuracu:0.9888671875
+training epoch:27,loss:0.00027,accuracu:0.9876953125
+Class 2, Accuracy 4631/4774 = 0.9700460829493087
+Class 0, Accuracy 1929/2130 = 0.9056338028169014
+Class 1, Accuracy 291/328 = 0.8871951219512195
+validation epoch:27,loss:0.00188,accuracu:0.9473174778761062
+********************Epoch 27 Finished********************
+training epoch:28,loss:0.00019,accuracu:0.9927734375
+training epoch:28,loss:0.00018,accuracu:0.99140625
+training epoch:28,loss:0.00024,accuracu:0.989453125
+Class 0, Accuracy 1913/2130 = 0.8981220657276995
+Class 2, Accuracy 4598/4774 = 0.9631336405529954
+Class 1, Accuracy 307/328 = 0.9359756097560976
+validation epoch:28,loss:0.00199,accuracu:0.942754424778761
+********************Epoch 28 Finished********************
+training epoch:29,loss:0.00020,accuracu:0.9896484375
+training epoch:29,loss:0.00016,accuracu:0.99453125
+training epoch:29,loss:0.00021,accuracu:0.990234375
+Class 2, Accuracy 4659/4774 = 0.9759111855886049
+Class 0, Accuracy 1980/2130 = 0.9295774647887324
+Class 1, Accuracy 238/328 = 0.725609756097561
+validation epoch:29,loss:0.00198,accuracu:0.9509126106194691
+********************Epoch 29 Finished********************
+training epoch:30,loss:0.00022,accuracu:0.98828125
+training epoch:30,loss:0.00021,accuracu:0.98984375
+training epoch:30,loss:0.00024,accuracu:0.9880859375
+Class 2, Accuracy 4609/4774 = 0.9654377880184332
+Class 0, Accuracy 1953/2130 = 0.9169014084507042
+Class 1, Accuracy 297/328 = 0.9054878048780488
+validation epoch:30,loss:0.00219,accuracu:0.9484236725663717
+********************Epoch 30 Finished********************
+training epoch:31,loss:0.00021,accuracu:0.9912109375
+training epoch:31,loss:0.00018,accuracu:0.9931640625
+training epoch:31,loss:0.00019,accuracu:0.9919921875
+Class 2, Accuracy 4584/4774 = 0.9602010892333473
+Class 0, Accuracy 1965/2130 = 0.9225352112676056
+Class 1, Accuracy 286/328 = 0.8719512195121951
+validation epoch:31,loss:0.00190,accuracu:0.9451050884955752
+********************Epoch 31 Finished********************
+training epoch:32,loss:0.00012,accuracu:0.99375
+training epoch:32,loss:0.00024,accuracu:0.9892578125
+training epoch:32,loss:0.00016,accuracu:0.992578125
+Class 2, Accuracy 4611/4774 = 0.96585672392124
+Class 0, Accuracy 1976/2130 = 0.927699530516432
+Class 1, Accuracy 292/328 = 0.8902439024390244
+validation epoch:32,loss:0.00193,accuracu:0.9511891592920354
+********************Epoch 32 Finished********************
+training epoch:33,loss:0.00009,accuracu:0.996484375
+training epoch:33,loss:0.00010,accuracu:0.9966796875
+training epoch:33,loss:0.00009,accuracu:0.9951171875
+Class 2, Accuracy 4609/4774 = 0.9654377880184332
+Class 0, Accuracy 1972/2130 = 0.9258215962441314
+Class 1, Accuracy 297/328 = 0.9054878048780488
+validation epoch:33,loss:0.00200,accuracu:0.9510508849557522
+********************Epoch 33 Finished********************
+training epoch:34,loss:0.00007,accuracu:0.99765625
+training epoch:34,loss:0.00006,accuracu:0.9978515625
+training epoch:34,loss:0.00007,accuracu:0.997265625
+Class 0, Accuracy 1989/2130 = 0.9338028169014084
+Class 2, Accuracy 4588/4774 = 0.961038961038961
+Class 1, Accuracy 285/328 = 0.8689024390243902
+validation epoch:34,loss:0.00208,accuracu:0.9488384955752213
+********************Epoch 34 Finished********************
+training epoch:35,loss:0.00006,accuracu:0.99765625
+training epoch:35,loss:0.00005,accuracu:0.9982421875
+training epoch:35,loss:0.00006,accuracu:0.9974609375
+Class 2, Accuracy 4630/4774 = 0.9698366149979053
+Class 0, Accuracy 1971/2130 = 0.9253521126760563
+Class 1, Accuracy 291/328 = 0.8871951219512195
+validation epoch:35,loss:0.00203,accuracu:0.9529867256637168
+********************Epoch 35 Finished********************
+training epoch:36,loss:0.00004,accuracu:0.999609375
+training epoch:36,loss:0.00004,accuracu:0.9990234375
+training epoch:36,loss:0.00005,accuracu:0.998046875
+Class 2, Accuracy 4600/4774 = 0.9635525764558023
+Class 0, Accuracy 1989/2130 = 0.9338028169014084
+Class 1, Accuracy 289/328 = 0.8810975609756098
+validation epoch:36,loss:0.00207,accuracu:0.9510508849557522
+********************Epoch 36 Finished********************
+training epoch:37,loss:0.00005,accuracu:0.9978515625
+training epoch:37,loss:0.00005,accuracu:0.9984375
+training epoch:37,loss:0.00005,accuracu:0.99765625
+Class 2, Accuracy 4587/4774 = 0.9608294930875576
+Class 0, Accuracy 1982/2130 = 0.9305164319248826
+Class 1, Accuracy 287/328 = 0.875
+validation epoch:37,loss:0.00216,accuracu:0.9480088495575221
+********************Epoch 37 Finished********************
+training epoch:38,loss:0.00007,accuracu:0.9966796875
+training epoch:38,loss:0.00006,accuracu:0.9978515625
+training epoch:38,loss:0.00007,accuracu:0.996875
+Class 2, Accuracy 4640/4774 = 0.9719312945119397
+Class 0, Accuracy 1981/2130 = 0.9300469483568075
+Class 1, Accuracy 273/328 = 0.8323170731707317
+validation epoch:38,loss:0.00218,accuracu:0.9532632743362832
+********************Epoch 38 Finished********************
+training epoch:39,loss:0.00006,accuracu:0.9970703125
+training epoch:39,loss:0.00005,accuracu:0.9984375
+training epoch:39,loss:0.00004,accuracu:0.9986328125
+Class 2, Accuracy 4583/4774 = 0.9599916212819438
+Class 0, Accuracy 1987/2130 = 0.9328638497652583
+Class 1, Accuracy 295/328 = 0.899390243902439
+validation epoch:39,loss:0.00217,accuracu:0.9492533185840708
+********************Epoch 39 Finished********************
+training epoch:40,loss:0.00003,accuracu:0.999609375
+training epoch:40,loss:0.00002,accuracu:0.999609375
+training epoch:40,loss:0.00004,accuracu:0.9984375
+Class 2, Accuracy 4610/4774 = 0.9656472559698366
+Class 0, Accuracy 1979/2130 = 0.9291079812206573
+Class 1, Accuracy 291/328 = 0.8871951219512195
+validation epoch:40,loss:0.00217,accuracu:0.9513274336283186
+********************Epoch 40 Finished********************
+training epoch:41,loss:0.00003,accuracu:0.9990234375
+training epoch:41,loss:0.00002,accuracu:0.9998046875
+training epoch:41,loss:0.00004,accuracu:0.9982421875
+Class 2, Accuracy 4611/4774 = 0.96585672392124
+Class 0, Accuracy 1975/2130 = 0.9272300469483568
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:41,loss:0.00220,accuracu:0.9507743362831859
+********************Epoch 41 Finished********************
+training epoch:42,loss:0.00003,accuracu:0.99921875
+training epoch:42,loss:0.00002,accuracu:0.9994140625
+training epoch:42,loss:0.00003,accuracu:0.9990234375
+Class 2, Accuracy 4603/4774 = 0.9641809803100125
+Class 1, Accuracy 286/328 = 0.8719512195121951
+Class 0, Accuracy 1989/2130 = 0.9338028169014084
+validation epoch:42,loss:0.00220,accuracu:0.9510508849557522
+********************Epoch 42 Finished********************
+training epoch:43,loss:0.00002,accuracu:0.99921875
+training epoch:43,loss:0.00003,accuracu:0.9990234375
+training epoch:43,loss:0.00002,accuracu:0.999609375
+Class 0, Accuracy 1972/2130 = 0.9258215962441314
+Class 2, Accuracy 4633/4774 = 0.9704650188521157
+Class 1, Accuracy 284/328 = 0.8658536585365854
+validation epoch:43,loss:0.00224,accuracu:0.9525719026548672
+********************Epoch 43 Finished********************
+training epoch:44,loss:0.00003,accuracu:0.99921875
+training epoch:44,loss:0.00002,accuracu:0.99921875
+training epoch:44,loss:0.00002,accuracu:0.99921875
+Class 2, Accuracy 4620/4774 = 0.967741935483871
+Class 1, Accuracy 291/328 = 0.8871951219512195
+Class 0, Accuracy 1978/2130 = 0.9286384976525821
+validation epoch:44,loss:0.00224,accuracu:0.9525719026548672
+********************Epoch 44 Finished********************
+training epoch:45,loss:0.00002,accuracu:0.9998046875
+training epoch:45,loss:0.00001,accuracu:0.9998046875
+training epoch:45,loss:0.00003,accuracu:0.99921875
+Class 0, Accuracy 1969/2130 = 0.9244131455399061
+Class 2, Accuracy 4634/4774 = 0.9706744868035191
+Class 1, Accuracy 294/328 = 0.8963414634146342
+validation epoch:45,loss:0.00229,accuracu:0.9536780973451328
+********************Epoch 45 Finished********************
+training epoch:46,loss:0.00003,accuracu:0.9990234375
+training epoch:46,loss:0.00002,accuracu:0.9998046875
+training epoch:46,loss:0.00002,accuracu:0.999609375
+Class 2, Accuracy 4626/4774 = 0.9689987431922916
+Class 0, Accuracy 1968/2130 = 0.923943661971831
+Class 1, Accuracy 292/328 = 0.8902439024390244
+validation epoch:46,loss:0.00229,accuracu:0.9521570796460177
+********************Epoch 46 Finished********************
+training epoch:47,loss:0.00002,accuracu:0.999609375
+training epoch:47,loss:0.00001,accuracu:1.0
+training epoch:47,loss:0.00001,accuracu:1.0
+Class 0, Accuracy 1968/2130 = 0.923943661971831
+Class 2, Accuracy 4632/4774 = 0.9702555509007121
+Class 1, Accuracy 291/328 = 0.8871951219512195
+validation epoch:47,loss:0.00226,accuracu:0.9528484513274337
+********************Epoch 47 Finished********************
+training epoch:48,loss:0.00002,accuracu:0.9994140625
+training epoch:48,loss:0.00002,accuracu:0.999609375
+training epoch:48,loss:0.00002,accuracu:0.999609375
+Class 1, Accuracy 286/328 = 0.8719512195121951
+Class 2, Accuracy 4611/4774 = 0.96585672392124
+Class 0, Accuracy 1989/2130 = 0.9338028169014084
+validation epoch:48,loss:0.00227,accuracu:0.9521570796460177
+********************Epoch 48 Finished********************
+training epoch:49,loss:0.00002,accuracu:0.999609375
+training epoch:49,loss:0.00002,accuracu:0.9998046875
+training epoch:49,loss:0.00002,accuracu:0.9994140625
+Class 2, Accuracy 4625/4774 = 0.9687892752408881
+Class 0, Accuracy 1976/2130 = 0.927699530516432
+Class 1, Accuracy 291/328 = 0.8871951219512195
+validation epoch:49,loss:0.00236,accuracu:0.9529867256637168
+********************Epoch 49 Finished********************
+training epoch:50,loss:0.00002,accuracu:0.999609375
+training epoch:50,loss:0.00002,accuracu:0.9994140625
+training epoch:50,loss:0.00002,accuracu:0.99921875
+Class 2, Accuracy 4621/4774 = 0.9679514034352744
+Class 0, Accuracy 1985/2130 = 0.931924882629108
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:50,loss:0.00234,accuracu:0.9535398230088495
+********************Epoch 50 Finished********************
+training epoch:51,loss:0.00002,accuracu:0.999609375
+training epoch:51,loss:0.00002,accuracu:1.0
+training epoch:51,loss:0.00002,accuracu:0.99921875
+Class 2, Accuracy 4629/4774 = 0.9696271470465019
+Class 0, Accuracy 1986/2130 = 0.9323943661971831
+Class 1, Accuracy 283/328 = 0.8628048780487805
+validation epoch:51,loss:0.00228,accuracu:0.953816371681416
+********************Epoch 51 Finished********************
+training epoch:52,loss:0.00002,accuracu:0.999609375
+training epoch:52,loss:0.00002,accuracu:0.99921875
+training epoch:52,loss:0.00001,accuracu:0.9998046875
+Class 0, Accuracy 1980/2130 = 0.9295774647887324
+Class 2, Accuracy 4618/4774 = 0.967322999581064
+Class 1, Accuracy 292/328 = 0.8902439024390244
+validation epoch:52,loss:0.00239,accuracu:0.9527101769911505
+********************Epoch 52 Finished********************
+training epoch:53,loss:0.00002,accuracu:0.99921875
+training epoch:53,loss:0.00002,accuracu:0.999609375
+training epoch:53,loss:0.00001,accuracu:0.9998046875
+Class 2, Accuracy 4621/4774 = 0.9679514034352744
+Class 0, Accuracy 1988/2130 = 0.9333333333333333
+Class 1, Accuracy 286/328 = 0.8719512195121951
+validation epoch:53,loss:0.00229,accuracu:0.9534015486725663
+********************Epoch 53 Finished********************
+training epoch:54,loss:0.00002,accuracu:0.9994140625
+training epoch:54,loss:0.00003,accuracu:0.998828125
+training epoch:54,loss:0.00001,accuracu:0.999609375
+Class 2, Accuracy 4617/4774 = 0.9671135316296606
+Class 0, Accuracy 1982/2130 = 0.9305164319248826
+Class 1, Accuracy 287/328 = 0.875
+validation epoch:54,loss:0.00232,accuracu:0.9521570796460177
+********************Epoch 54 Finished********************
+training epoch:55,loss:0.00001,accuracu:1.0
+training epoch:55,loss:0.00003,accuracu:0.99921875
+training epoch:55,loss:0.00002,accuracu:0.99921875
+Class 2, Accuracy 4612/4774 = 0.9660661918726435
+Class 0, Accuracy 1981/2130 = 0.9300469483568075
+Class 1, Accuracy 292/328 = 0.8902439024390244
+validation epoch:55,loss:0.00238,accuracu:0.9520188053097345
+********************Epoch 55 Finished********************
+training epoch:56,loss:0.00001,accuracu:1.0
+training epoch:56,loss:0.00001,accuracu:1.0
+training epoch:56,loss:0.00001,accuracu:1.0
+Class 2, Accuracy 4618/4774 = 0.967322999581064
+Class 1, Accuracy 292/328 = 0.8902439024390244
+Class 0, Accuracy 1980/2130 = 0.9295774647887324
+validation epoch:56,loss:0.00235,accuracu:0.9527101769911505
+********************Epoch 56 Finished********************
+training epoch:57,loss:0.00001,accuracu:1.0
+training epoch:57,loss:0.00002,accuracu:0.999609375
+training epoch:57,loss:0.00001,accuracu:1.0
+Class 2, Accuracy 4624/4774 = 0.9685798072894847
+Class 0, Accuracy 1979/2130 = 0.9291079812206573
+Class 1, Accuracy 288/328 = 0.8780487804878049
+validation epoch:57,loss:0.00237,accuracu:0.9528484513274337
+********************Epoch 57 Finished********************
+training epoch:58,loss:0.00002,accuracu:0.999609375
+training epoch:58,loss:0.00001,accuracu:1.0
+training epoch:58,loss:0.00001,accuracu:1.0
+Class 2, Accuracy 4594/4774 = 0.9622957687473817
+Class 0, Accuracy 1994/2130 = 0.936150234741784
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:58,loss:0.00235,accuracu:0.9510508849557522
+********************Epoch 58 Finished********************
+training epoch:59,loss:0.00001,accuracu:1.0
+training epoch:59,loss:0.00001,accuracu:1.0
+training epoch:59,loss:0.00001,accuracu:0.9998046875
+Class 0, Accuracy 1980/2130 = 0.9295774647887324
+Class 1, Accuracy 287/328 = 0.875
+Class 2, Accuracy 4620/4774 = 0.967741935483871
+validation epoch:59,loss:0.00232,accuracu:0.9522953539823009
+********************Epoch 59 Finished********************
+training epoch:60,loss:0.00002,accuracu:0.9994140625
+training epoch:60,loss:0.00001,accuracu:1.0
+training epoch:60,loss:0.00001,accuracu:0.9998046875
+Class 2, Accuracy 4619/4774 = 0.9675324675324676
+Class 0, Accuracy 1981/2130 = 0.9300469483568075
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:60,loss:0.00234,accuracu:0.9527101769911505
+********************Epoch 60 Finished********************
+training epoch:61,loss:0.00001,accuracu:0.9998046875
+training epoch:61,loss:0.00001,accuracu:1.0
+training epoch:61,loss:0.00001,accuracu:1.0
+Class 2, Accuracy 4598/4774 = 0.9631336405529954
+Class 0, Accuracy 1991/2130 = 0.9347417840375587
+Class 1, Accuracy 291/328 = 0.8871951219512195
+validation epoch:61,loss:0.00235,accuracu:0.9513274336283186
+********************Epoch 61 Finished********************
+training epoch:62,loss:0.00003,accuracu:0.9990234375
+training epoch:62,loss:0.00001,accuracu:0.999609375
+training epoch:62,loss:0.00002,accuracu:0.999609375
+Class 2, Accuracy 4598/4774 = 0.9631336405529954
+Class 0, Accuracy 1990/2130 = 0.9342723004694836
+Class 1, Accuracy 293/328 = 0.8932926829268293
+validation epoch:62,loss:0.00241,accuracu:0.9514657079646017
+********************Epoch 62 Finished********************
+training epoch:63,loss:0.00001,accuracu:0.9998046875
+training epoch:63,loss:0.00001,accuracu:0.999609375
+training epoch:63,loss:0.00001,accuracu:0.9998046875
+Class 2, Accuracy 4598/4774 = 0.9631336405529954
+Class 0, Accuracy 1991/2130 = 0.9347417840375587
+Class 1, Accuracy 293/328 = 0.8932926829268293
+validation epoch:63,loss:0.00238,accuracu:0.9516039823008849
+********************Epoch 63 Finished********************
+training epoch:64,loss:0.00001,accuracu:0.9998046875
+training epoch:64,loss:0.00001,accuracu:1.0
+training epoch:64,loss:0.00001,accuracu:1.0
+Class 0, Accuracy 1986/2130 = 0.9323943661971831
+Class 2, Accuracy 4611/4774 = 0.96585672392124
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:64,loss:0.00236,accuracu:0.9522953539823009
+********************Epoch 64 Finished********************
+training epoch:65,loss:0.00001,accuracu:0.9998046875
+training epoch:65,loss:0.00001,accuracu:0.9998046875
+training epoch:65,loss:0.00001,accuracu:1.0
+Class 0, Accuracy 1986/2130 = 0.9323943661971831
+Class 2, Accuracy 4626/4774 = 0.9689987431922916
+Class 1, Accuracy 284/328 = 0.8658536585365854
+validation epoch:65,loss:0.00233,accuracu:0.9535398230088495
+********************Epoch 65 Finished********************
+training epoch:66,loss:0.00001,accuracu:0.999609375
+training epoch:66,loss:0.00001,accuracu:0.9998046875
+training epoch:66,loss:0.00002,accuracu:0.9994140625
+Class 2, Accuracy 4607/4774 = 0.9650188521156263
+Class 0, Accuracy 1994/2130 = 0.936150234741784
+Class 1, Accuracy 288/328 = 0.8780487804878049
+validation epoch:66,loss:0.00231,accuracu:0.9525719026548672
+********************Epoch 66 Finished********************
+training epoch:67,loss:0.00002,accuracu:0.9998046875
+training epoch:67,loss:0.00001,accuracu:1.0
+training epoch:67,loss:0.00001,accuracu:0.9998046875
+Class 0, Accuracy 1990/2130 = 0.9342723004694836
+Class 2, Accuracy 4609/4774 = 0.9654377880184332
+Class 1, Accuracy 289/328 = 0.8810975609756098
+validation epoch:67,loss:0.00239,accuracu:0.952433628318584
+********************Epoch 67 Finished********************
+training epoch:68,loss:0.00001,accuracu:1.0
+training epoch:68,loss:0.00002,accuracu:0.999609375
+training epoch:68,loss:0.00001,accuracu:0.999609375
+Class 2, Accuracy 4614/4774 = 0.9664851277754504
+Class 0, Accuracy 1989/2130 = 0.9338028169014084
+Class 1, Accuracy 288/328 = 0.8780487804878049
+validation epoch:68,loss:0.00235,accuracu:0.9528484513274337
+********************Epoch 68 Finished********************
+training epoch:69,loss:0.00001,accuracu:0.999609375
+training epoch:69,loss:0.00001,accuracu:1.0
+training epoch:69,loss:0.00001,accuracu:1.0
+Class 2, Accuracy 4619/4774 = 0.9675324675324676
+Class 0, Accuracy 1983/2130 = 0.9309859154929577
+Class 1, Accuracy 289/328 = 0.8810975609756098
+validation epoch:69,loss:0.00238,accuracu:0.9528484513274337
+********************Epoch 69 Finished********************
+training epoch:70,loss:0.00001,accuracu:1.0
+training epoch:70,loss:0.00001,accuracu:1.0
+training epoch:70,loss:0.00001,accuracu:0.999609375
+Class 2, Accuracy 4608/4774 = 0.9652283200670297
+Class 0, Accuracy 1982/2130 = 0.9305164319248826
+Class 1, Accuracy 294/328 = 0.8963414634146342
+validation epoch:70,loss:0.00238,accuracu:0.9518805309734514
+********************Epoch 70 Finished********************
+training epoch:71,loss:0.00001,accuracu:0.9998046875
+training epoch:71,loss:0.00001,accuracu:1.0
+training epoch:71,loss:0.00002,accuracu:0.9990234375
+Class 0, Accuracy 1992/2130 = 0.9352112676056338
+Class 2, Accuracy 4611/4774 = 0.96585672392124
+Class 1, Accuracy 289/328 = 0.8810975609756098
+validation epoch:71,loss:0.00231,accuracu:0.9529867256637168
+********************Epoch 71 Finished********************
+training epoch:72,loss:0.00001,accuracu:0.9998046875
+training epoch:72,loss:0.00002,accuracu:0.999609375
+training epoch:72,loss:0.00001,accuracu:0.9998046875
+Class 0, Accuracy 1991/2130 = 0.9347417840375587
+Class 2, Accuracy 4615/4774 = 0.9666945957268538
+Class 1, Accuracy 283/328 = 0.8628048780487805
+validation epoch:72,loss:0.00231,accuracu:0.9525719026548672
+********************Epoch 72 Finished********************
+training epoch:73,loss:0.00001,accuracu:0.999609375
+training epoch:73,loss:0.00001,accuracu:1.0
+training epoch:73,loss:0.00001,accuracu:0.999609375
+Class 2, Accuracy 4613/4774 = 0.966275659824047
+Class 0, Accuracy 1987/2130 = 0.9328638497652583
+Class 1, Accuracy 288/328 = 0.8780487804878049
+validation epoch:73,loss:0.00232,accuracu:0.952433628318584
+********************Epoch 73 Finished********************
+training epoch:74,loss:0.00002,accuracu:0.9994140625
+training epoch:74,loss:0.00001,accuracu:0.9998046875
+training epoch:74,loss:0.00001,accuracu:1.0
+Class 2, Accuracy 4603/4774 = 0.9641809803100125
+Class 0, Accuracy 1989/2130 = 0.9338028169014084
+Class 1, Accuracy 294/328 = 0.8963414634146342
+validation epoch:74,loss:0.00236,accuracu:0.9521570796460177
+********************Epoch 74 Finished********************
+training epoch:75,loss:0.00001,accuracu:0.999609375
+training epoch:75,loss:0.00001,accuracu:1.0
+training epoch:75,loss:0.00001,accuracu:0.9998046875
+Class 2, Accuracy 4625/4774 = 0.9687892752408881
+Class 0, Accuracy 1986/2130 = 0.9323943661971831
+Class 1, Accuracy 286/328 = 0.8719512195121951
+validation epoch:75,loss:0.00233,accuracu:0.9536780973451328
+********************Epoch 75 Finished********************
+training epoch:76,loss:0.00001,accuracu:0.9998046875
+training epoch:76,loss:0.00001,accuracu:0.999609375
+training epoch:76,loss:0.00001,accuracu:1.0
+Class 2, Accuracy 4605/4774 = 0.9645999162128195
+Class 0, Accuracy 1987/2130 = 0.9328638497652583
+Class 1, Accuracy 291/328 = 0.8871951219512195
+validation epoch:76,loss:0.00239,accuracu:0.9517422566371682
+********************Epoch 76 Finished********************
+training epoch:77,loss:0.00002,accuracu:0.99921875
+training epoch:77,loss:0.00001,accuracu:0.9998046875
+training epoch:77,loss:0.00002,accuracu:0.9994140625
+Class 2, Accuracy 4610/4774 = 0.9656472559698366
+Class 0, Accuracy 1984/2130 = 0.9314553990610329
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:77,loss:0.00238,accuracu:0.9518805309734514
+********************Epoch 77 Finished********************
+training epoch:78,loss:0.00001,accuracu:1.0
+training epoch:78,loss:0.00002,accuracu:0.999609375
+training epoch:78,loss:0.00002,accuracu:0.9994140625
+Class 2, Accuracy 4613/4774 = 0.966275659824047
+Class 0, Accuracy 1981/2130 = 0.9300469483568075
+Class 1, Accuracy 292/328 = 0.8902439024390244
+validation epoch:78,loss:0.00235,accuracu:0.9521570796460177
+********************Epoch 78 Finished********************
+training epoch:79,loss:0.00001,accuracu:1.0
+training epoch:79,loss:0.00001,accuracu:1.0
+training epoch:79,loss:0.00001,accuracu:0.999609375
+Class 0, Accuracy 1991/2130 = 0.9347417840375587
+Class 2, Accuracy 4602/4774 = 0.9639715123586091
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:79,loss:0.00234,accuracu:0.9517422566371682
+********************Epoch 79 Finished********************
+training epoch:80,loss:0.00001,accuracu:0.999609375
+training epoch:80,loss:0.00001,accuracu:0.9998046875
+training epoch:80,loss:0.00001,accuracu:0.9998046875
+Class 2, Accuracy 4593/4774 = 0.9620863007959782
+Class 0, Accuracy 1986/2130 = 0.9323943661971831
+Class 1, Accuracy 300/328 = 0.9146341463414634
+validation epoch:80,loss:0.00242,accuracu:0.9511891592920354
+********************Epoch 80 Finished********************
+training epoch:81,loss:0.00001,accuracu:1.0
+training epoch:81,loss:0.00001,accuracu:1.0
+training epoch:81,loss:0.00001,accuracu:0.9998046875
+Class 2, Accuracy 4617/4774 = 0.9671135316296606
+Class 0, Accuracy 1985/2130 = 0.931924882629108
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:81,loss:0.00237,accuracu:0.9529867256637168
+********************Epoch 81 Finished********************
+training epoch:82,loss:0.00002,accuracu:0.999609375
+training epoch:82,loss:0.00001,accuracu:0.9998046875
+training epoch:82,loss:0.00002,accuracu:0.999609375
+Class 2, Accuracy 4609/4774 = 0.9654377880184332
+Class 0, Accuracy 1989/2130 = 0.9338028169014084
+Class 1, Accuracy 289/328 = 0.8810975609756098
+validation epoch:82,loss:0.00234,accuracu:0.9522953539823009
+********************Epoch 82 Finished********************
+training epoch:83,loss:0.00001,accuracu:0.9998046875
+training epoch:83,loss:0.00001,accuracu:0.9994140625
+training epoch:83,loss:0.00001,accuracu:0.9998046875
+Class 2, Accuracy 4616/4774 = 0.9669040636782572
+Class 0, Accuracy 1984/2130 = 0.9314553990610329
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:83,loss:0.00241,accuracu:0.9527101769911505
+********************Epoch 83 Finished********************
+training epoch:84,loss:0.00001,accuracu:1.0
+training epoch:84,loss:0.00001,accuracu:1.0
+training epoch:84,loss:0.00001,accuracu:0.9994140625
+Class 2, Accuracy 4610/4774 = 0.9656472559698366
+Class 1, Accuracy 289/328 = 0.8810975609756098
+Class 0, Accuracy 1987/2130 = 0.9328638497652583
+validation epoch:84,loss:0.00233,accuracu:0.9521570796460177
+********************Epoch 84 Finished********************
+training epoch:85,loss:0.00001,accuracu:0.9998046875
+training epoch:85,loss:0.00002,accuracu:0.9990234375
+training epoch:85,loss:0.00002,accuracu:0.9998046875
+Class 2, Accuracy 4589/4774 = 0.9612484289903644
+Class 0, Accuracy 1995/2130 = 0.9366197183098591
+Class 1, Accuracy 294/328 = 0.8963414634146342
+validation epoch:85,loss:0.00243,accuracu:0.9510508849557522
+********************Epoch 85 Finished********************
+training epoch:86,loss:0.00001,accuracu:0.9998046875
+training epoch:86,loss:0.00001,accuracu:1.0
+training epoch:86,loss:0.00001,accuracu:1.0
+Class 2, Accuracy 4616/4774 = 0.9669040636782572
+Class 0, Accuracy 1990/2130 = 0.9342723004694836
+Class 1, Accuracy 287/328 = 0.875
+validation epoch:86,loss:0.00232,accuracu:0.953125
+********************Epoch 86 Finished********************
+training epoch:87,loss:0.00001,accuracu:1.0
+training epoch:87,loss:0.00001,accuracu:1.0
+training epoch:87,loss:0.00001,accuracu:0.9998046875
+Class 2, Accuracy 4617/4774 = 0.9671135316296606
+Class 0, Accuracy 1986/2130 = 0.9323943661971831
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:87,loss:0.00234,accuracu:0.953125
+********************Epoch 87 Finished********************
+training epoch:88,loss:0.00002,accuracu:0.9998046875
+training epoch:88,loss:0.00001,accuracu:1.0
+training epoch:88,loss:0.00002,accuracu:0.999609375
+Class 2, Accuracy 4599/4774 = 0.9633431085043989
+Class 0, Accuracy 1991/2130 = 0.9347417840375587
+Class 1, Accuracy 293/328 = 0.8932926829268293
+validation epoch:88,loss:0.00238,accuracu:0.9517422566371682
+********************Epoch 88 Finished********************
+training epoch:89,loss:0.00002,accuracu:0.99921875
+training epoch:89,loss:0.00001,accuracu:1.0
+training epoch:89,loss:0.00001,accuracu:0.9998046875
+Class 2, Accuracy 4610/4774 = 0.9656472559698366
+Class 1, Accuracy 290/328 = 0.8841463414634146
+Class 0, Accuracy 1989/2130 = 0.9338028169014084
+validation epoch:89,loss:0.00236,accuracu:0.9525719026548672
+********************Epoch 89 Finished********************
+training epoch:90,loss:0.00001,accuracu:1.0
+training epoch:90,loss:0.00001,accuracu:1.0
+training epoch:90,loss:0.00001,accuracu:0.9998046875
+Class 1, Accuracy 291/328 = 0.8871951219512195
+Class 2, Accuracy 4605/4774 = 0.9645999162128195
+Class 0, Accuracy 1989/2130 = 0.9338028169014084
+validation epoch:90,loss:0.00240,accuracu:0.9520188053097345
+********************Epoch 90 Finished********************
+training epoch:91,loss:0.00001,accuracu:0.999609375
+training epoch:91,loss:0.00001,accuracu:0.9998046875
+training epoch:91,loss:0.00002,accuracu:0.9994140625
+Class 0, Accuracy 1994/2130 = 0.936150234741784
+Class 2, Accuracy 4592/4774 = 0.9618768328445748
+Class 1, Accuracy 293/328 = 0.8932926829268293
+validation epoch:91,loss:0.00242,accuracu:0.9511891592920354
+********************Epoch 91 Finished********************
+training epoch:92,loss:0.00001,accuracu:0.9998046875
+training epoch:92,loss:0.00001,accuracu:0.9998046875
+training epoch:92,loss:0.00001,accuracu:0.999609375
+Class 2, Accuracy 4644/4774 = 0.9727691663175534
+Class 0, Accuracy 1976/2130 = 0.927699530516432
+Class 1, Accuracy 284/328 = 0.8658536585365854
+validation epoch:92,loss:0.00232,accuracu:0.9546460176991151
+********************Epoch 92 Finished********************
+training epoch:93,loss:0.00002,accuracu:0.999609375
+training epoch:93,loss:0.00002,accuracu:0.9990234375
+training epoch:93,loss:0.00001,accuracu:0.9998046875
+Class 0, Accuracy 1988/2130 = 0.9333333333333333
+Class 2, Accuracy 4618/4774 = 0.967322999581064
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:93,loss:0.00234,accuracu:0.9535398230088495
+********************Epoch 93 Finished********************
+training epoch:94,loss:0.00001,accuracu:0.9998046875
+training epoch:94,loss:0.00002,accuracu:0.999609375
+training epoch:94,loss:0.00001,accuracu:0.9998046875
+Class 0, Accuracy 1983/2130 = 0.9309859154929577
+Class 2, Accuracy 4626/4774 = 0.9689987431922916
+Class 1, Accuracy 288/328 = 0.8780487804878049
+validation epoch:94,loss:0.00233,accuracu:0.9536780973451328
+********************Epoch 94 Finished********************
+training epoch:95,loss:0.00001,accuracu:1.0
+training epoch:95,loss:0.00002,accuracu:0.9990234375
+training epoch:95,loss:0.00002,accuracu:0.999609375
+Class 2, Accuracy 4619/4774 = 0.9675324675324676
+Class 0, Accuracy 1981/2130 = 0.9300469483568075
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:95,loss:0.00237,accuracu:0.9527101769911505
+********************Epoch 95 Finished********************
+training epoch:96,loss:0.00001,accuracu:0.9998046875
+training epoch:96,loss:0.00001,accuracu:0.9998046875
+training epoch:96,loss:0.00001,accuracu:1.0
+Class 2, Accuracy 4601/4774 = 0.9637620444072057
+Class 0, Accuracy 1991/2130 = 0.9347417840375587
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:96,loss:0.00237,accuracu:0.9516039823008849
+********************Epoch 96 Finished********************
+training epoch:97,loss:0.00002,accuracu:0.999609375
+training epoch:97,loss:0.00001,accuracu:0.9998046875
+training epoch:97,loss:0.00001,accuracu:0.999609375
+Class 0, Accuracy 1977/2130 = 0.928169014084507
+Class 2, Accuracy 4628/4774 = 0.9694176790950985
+Class 1, Accuracy 290/328 = 0.8841463414634146
+validation epoch:97,loss:0.00236,accuracu:0.9534015486725663
+********************Epoch 97 Finished********************
+training epoch:98,loss:0.00002,accuracu:0.999609375
+training epoch:98,loss:0.00001,accuracu:0.9998046875
+training epoch:98,loss:0.00002,accuracu:0.9994140625
+Class 2, Accuracy 4612/4774 = 0.9660661918726435
+Class 0, Accuracy 1991/2130 = 0.9347417840375587
+Class 1, Accuracy 287/328 = 0.875
+validation epoch:98,loss:0.00234,accuracu:0.9527101769911505
+********************Epoch 98 Finished********************
+training epoch:99,loss:0.00001,accuracu:0.999609375
+training epoch:99,loss:0.00001,accuracu:1.0
+training epoch:99,loss:0.00001,accuracu:0.999609375
+Class 2, Accuracy 4620/4774 = 0.967741935483871
+Class 0, Accuracy 1980/2130 = 0.9295774647887324
+Class 1, Accuracy 291/328 = 0.8871951219512195
+validation epoch:99,loss:0.00235,accuracu:0.9528484513274337
+********************Epoch 99 Finished********************
+
+Process finished with exit code 0

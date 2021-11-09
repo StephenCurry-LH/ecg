@@ -1,0 +1,89 @@
+DCT其固定值，top16：
+Resnet +DCT   94.69   run文件Oct 15 11.04.35
+Endecoder +DCT 94.67  run文件Oct 15 11。27.17
+
+
+未使用DCT：
+原版Resnet     95.15   run文件 Oct 15 13-35-20
+原版Endecoder   95.44  run文件 Oct 15 13-36-26
+数据量：
+CEW数据集--81
+CABG数据集--150
+DHF--97
+GCCS--56
+总共384
+
+训练数据366
+其中
+DHF53
+DHF68
+5D实验：
+epoch = 50   learning_rate = 0.001    51.82    Oct27_15-49-03
+epoch = 50   learning_rate = 0.0001   51.82    Oct28_09-37-04
+epoch = 100  learning_rate = 0.001    50.91    Oct28_09-14-41
+epoch = 100  learning_rate = 0.0001   36.36    Oct28_09-24-04
+
+
+二分类实验
+0 ：212/366
+1 ：154/366
+
+epoch = 50   learning_rate = 0.001    53.64    Oct28_10-33-36
+
+resize
+5D实验：
+epoch = 50   learning_rate = 0.001    51.36    Nov01_15-44-13
+
+
+二分类实验
+
+
+现有169组数据训练
+loss 0.00001  accuracu:1.0
+
+resample2048数据--resnet网络     epoch=500         56.42    loss=0.0126   Oct22 13-58-09
+resample5000数据--resnet网络     epoch=500         46.30    loss=0.0137   Oct22 15-29-59
+
+CEW  1 20      77
+GCCS 2 23      54
+CABG 1 21      149
+DHF 1 24       86
+
+类别0 213/368    57.88%
+类别1 47/368     12.77%
+类别2 26/368     7.07%
+类别3 18/368     4.89%
+类别4 64/368     17.39%
+
+
+1：添加了tensorboard可视化训练过程，
+2：添加seq2seq网络或者Resnet网络
+3：多分类，3分类就是class=3，二分类就是class=1
+4：resample在‘utils/resample.py’,还有小波变换wavelet。py，离散傅里叶变换dft.py，这些可以先不用
+
+下载完后第一步运行process_hf_data.py,第二部运行main.py开始训练即可，选择seq2seq或者Resnet均可，
+    tensorboard --logdir=‘./runs’
+监测训练过程。
+
+
+筛选数据：
+现有数据总共384组
+好的数据：132(最后剩124组）
+86 + 12 + 7 + 1 + 18
+坏的数据：252
+epoch = 200   learning_rate = 0.001    55.26    Nov02_10-20-20
+训练准确率远大于验证准确率
+过拟合
+二分类 epoch = 200 learning_rate = 0.001  57.89  Nov02_11-12-27
+二分类 epoch = 100 learning_rate = 0.0001 57.89  Nov02_13-25-23
+
+筛选过的数据：
+all 124   train 86    test   38
+二分类   resnet18  epoch = 100 learning_rate = 0.0001
+        train_accuracy = 0.8372 train_loss = 0.3543
+        val_accuracy = 0.3947   val_loss = 0.1819
+        Nov05_22-32-07
+        resnet18  epoch = 100 learning_rate = 0.001
+        train_accuracy = 0.8256 train_loss = 0.4867
+        val_accuracy = 0.3684   val_loss = 0.1258
+        Nov05_22-49-05
