@@ -85,7 +85,7 @@ def train(model, train_loader, device, optimizer, epoch):
     N_count = 0
     interval=4
     for batch_idx, (x, y) in enumerate(train_loader):
-
+       # permute(0, 2, 1).
         x = x.to(device).permute(0, 2, 1).float()  #batch*5000*8，设置第一个卷积核为8通道，使得与8导联匹配
         y = y.to(device) # shape= （batch）
         N_count += y.size(0)
@@ -136,7 +136,7 @@ if __name__ == '__main__':
     os.environ["CUDA_VISIBLE_DEVICES"] = "7"#使用特定的显卡
 
     #dir_path = './data/multi_class'
-    dir_path = './data/multi_class'
+    dir_path = '/home/lihang/ecg/diastolic/diastolic/'
     all_data = os.listdir(dir_path)
     all_label = [npy[:npy.index('_')] for npy in all_data]
     #制作标签，为0,1
@@ -163,7 +163,7 @@ if __name__ == '__main__':
     ckpt_path = './ckpt_resample_5000'
     # if not os.path.exists(os.path.join('ecg-change', ckpt_path)):
     #     os.mkdir(os.path.join('ecg-change', ckpt_path))
-    epochs=50
+    epochs=2000
     learning_rate=0.001
 
     model=ResNeXt101_4x64d(num_classes=global_classes).to(device) #resnet152() 1-D卷积分类网络

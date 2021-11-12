@@ -3,7 +3,7 @@ import sys
 from itertools import groupby
 if __name__ == "__main__":
 
-    folder_name = "/home/lihang/ecg/data/multi-class1/"  # 获取文件夹的名字，即路径
+    folder_name = "/home/lihang/ecg/data/multi_class/"  # 获取文件夹的名字，即路径
     #folder_name = "C:\\Users\\HP\\Desktop\\pretreatment\\pretreatment\\change\\"
     file_names = os.listdir(folder_name)  # 获取文件夹内所有文件的名字
 
